@@ -26,7 +26,7 @@ public class CaptchaServlet extends HttpServlet {
 	    int height = 50;
 
 	    char data[][] = {
-	        { 'k', 'h', 'a', 't', 'e', 'e', 'b' },
+	        { 'w', 'i', 'n', 'd', 'o', 'w', 's' },
 	        { 'l', 'i', 'n', 'u', 'x' },
 	        { 'f', 'r', 'e', 'e', 'b', 's', 'd' },
 	        { 'u', 'b', 'u', 'n', 't', 'u' },
